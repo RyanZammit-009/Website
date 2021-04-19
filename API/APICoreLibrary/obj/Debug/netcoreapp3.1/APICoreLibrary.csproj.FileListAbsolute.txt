@@ -1,0 +1,9 @@
+C:\Users\Ryan(Admin)\Desktop\Solicitatieopdrachten\Website\API\APICoreLibrary\obj\Debug\netcoreapp3.1\APICoreLibrary.AssemblyInfoInputs.cache
+C:\Users\Ryan(Admin)\Desktop\Solicitatieopdrachten\Website\API\APICoreLibrary\obj\Debug\netcoreapp3.1\APICoreLibrary.AssemblyInfo.cs
+C:\Users\Ryan(Admin)\Desktop\Solicitatieopdrachten\Website\API\APICoreLibrary\obj\Debug\netcoreapp3.1\APICoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ryan(Admin)\Desktop\Solicitatieopdrachten\Website\API\APICoreLibrary\bin\Debug\netcoreapp3.1\APICoreLibrary.deps.json
+C:\Users\Ryan(Admin)\Desktop\Solicitatieopdrachten\Website\API\APICoreLibrary\bin\Debug\netcoreapp3.1\APICoreLibrary.dll
+C:\Users\Ryan(Admin)\Desktop\Solicitatieopdrachten\Website\API\APICoreLibrary\bin\Debug\netcoreapp3.1\APICoreLibrary.pdb
+C:\Users\Ryan(Admin)\Desktop\Solicitatieopdrachten\Website\API\APICoreLibrary\obj\Debug\netcoreapp3.1\APICoreLibrary.dll
+C:\Users\Ryan(Admin)\Desktop\Solicitatieopdrachten\Website\API\APICoreLibrary\obj\Debug\netcoreapp3.1\APICoreLibrary.pdb
+C:\Users\Ryan(Admin)\Desktop\Solicitatieopdrachten\Website\API\APICoreLibrary\obj\Debug\netcoreapp3.1\APICoreLibrary.csprojAssemblyReference.cache
